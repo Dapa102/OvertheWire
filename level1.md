@@ -28,4 +28,4 @@ Untuk keluar dari level 0 dan masuk ke level1 menggunakan password yang didapatk
 # Password
 The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-Dalam file tersebut terdapat sebuah password untuk level 1
+Dalam file tersebut terdapat sebuah password untuk level 2
