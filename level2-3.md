@@ -26,7 +26,7 @@ bandit2@bandit:~$ cat ./"--spaces in this filename--"
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 # Langkah selanjutnya
-exit dan ssh bandit3@bandit.labs.overthewire.org -p 2220
+exit dan ssh bandit4@bandit.labs.overthewire.org -p 2220
 
 # Password
 Password for this level = MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

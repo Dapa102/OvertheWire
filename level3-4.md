@@ -33,7 +33,7 @@ bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 # Langkah selanjutnya
-exit dan ssh bandit3@bandit.labs.overthewire.org -p 2220
+exit dan ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 # Password
 Password for this level = 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ

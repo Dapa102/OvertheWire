@@ -21,7 +21,7 @@ readme
 bandit0@bandit:~$ cat readme
 
 # Langkah selanjutnya
-exit dan ssh bandit1@bandit.labs.overthewire.org -p 2220
+exit dan ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 Untuk keluar dari level 0 dan masuk ke level1 menggunakan password yang didapatkan.
 

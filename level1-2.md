@@ -21,7 +21,7 @@ bandit1@bandit:~$ cat ./-
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 # Langkah selanjutnya
-exit dan ssh bandit2@bandit.labs.overthewire.org -p 2220
+exit dan ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 # Password
 Password for this level = 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
