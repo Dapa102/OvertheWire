@@ -9,20 +9,20 @@ ls , cd , cat , file , du , find
 Password untuk level 1 ada didalam file bernama readme yang berada dalam direktori home.
 
 # Solusi
-bandit0@bandit:~$ ls
-bandit0@bandit:~$ cat readme
+Command = ls dan cat
 
 Gunakan command ls untuk melihat file apa saja yang terdapat dalam direktori tersebut, kemudian commnad cat untuk menampilkan isi dari file tersebut.
 
 # Langkah selanjutnya
-bandit0@bandit:~$ exit
-user@LAPTOP-9F06RLTD:~$ ssh bandit1@bandit.labs.overthewire.org -p 
+exit dan ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 Untuk keluar dari level 0 dan masuk ke level1 menggunakan password yang didapatkan.
 
 # Hasil
 bandit0@bandit:~$ ls
+
 readme
+
 bandit0@bandit:~$ cat readme
 
 # Password
