@@ -45,7 +45,7 @@ bandit4@bandit:~/inhere$ cat ./-file07
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 # Langkah selanjutnya
-exit dan ssh bandit6@bandit.labs.overthewire.org -p 2220
+exit dan ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 # Password
 Password for this level = 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
