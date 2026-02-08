@@ -29,5 +29,5 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 exit dan ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 # Password
-Password for this level = 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Password for this level = MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 Gunakan password ini untuk masuk kedalam game berikutnya 
