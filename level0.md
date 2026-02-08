@@ -9,11 +9,11 @@ Username : bandit0, password : bandit0
 # Commands you may need to solve this level
 "ssh"
 
-# Solusi
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-
 # Penjelasan
 kita diminta untuk connect kedalam game tersebut menggunakan SSH, kita sudah memiliki username "bandit0" dan password "bandit0" kemudian gunakan ssh ke host bandit.labs.overthewire.org dengan port 2220 (-p 2220).
+
+# Solusi
+ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 # Hasil
 bandit0@bandit:~$ 
